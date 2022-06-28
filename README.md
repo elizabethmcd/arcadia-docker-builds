@@ -12,7 +12,7 @@ For a quick intro to using Docker you can get started with the [Docker Docs](htt
 6. We will then push the image to our hosting site
 
 ## Glossary of Docker Images 
+| Software | Usage | Version | Link |
+|---|---|---|---|
+| [fastp](https://hub.docker.com/r/elizabethmcd/fastp) |  Preprocessing & QC of fastQ files | 0.23.2  | https://github.com/OpenGene/fastp  |
 
-| Software | Usage | Versions | Link |
-| :--------: | --------- | | --------- | -------- |
-| [fastp](https://hub.docker.com/r/elizabethmcd/fastp) | 0.23.2 | Preprocessing & QC of fastQ files | https://github.com/OpenGene/fastp |
