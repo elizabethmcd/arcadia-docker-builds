@@ -1,4 +1,4 @@
-# Arcadia Science Docker Builds 
+# Arcadia Science Docker Builds :whale: 
 This repository is the central hub for Docker builds implemented by Arcadia Science. This includes the Dockerfiles and other files necessary for building Docker images for various toolkits at Arcadia Science. The purpose of this repository is to provide a centralized location of all Docker images used across Arcadia Science with clear documentation. 
 
 ## Docker User Guide and Contributing
